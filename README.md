@@ -1,3 +1,3 @@
 # Chatgpt
 
-Creating Notes for Chatgpt cousrse.
+# Creating Notes for Chatgpt cousrse.
